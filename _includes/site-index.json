@@ -7,10 +7,21 @@
             "gif",
             "girl",
             "sk8r"
+	
         ],
         "title": "sk8r-girl.gif"
+ "category": "wes",
+	"path": "giphy-1.gif",
+	"tags":	[
+		"wes",
+		"gif" 
+	    
+	],
+	"title": "giphy-1.gif"
+
     },
-    {
+    
+	{
         "category": "bien",
         "path": "bien/shufflin-robot.gif",
         "tags": [
